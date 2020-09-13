@@ -1,0 +1,7 @@
+
+uge2/kmr-uge2/.vs/kmr-uge2/config/applicationhost.config
+*.dll
+uge2/kmr-uge2/.vs/kmr-uge2/v16/.suo
+uge2/kmr-uge2/obj
+uge2/kmr-uge2/wwwroot/lib
+*.v2

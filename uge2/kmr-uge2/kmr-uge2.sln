@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kmr-uge2", "kmr-uge2.csproj", "{085062DB-71D3-41A7-9938-44E3E53894CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{085062DB-71D3-41A7-9938-44E3E53894CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{085062DB-71D3-41A7-9938-44E3E53894CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{085062DB-71D3-41A7-9938-44E3E53894CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{085062DB-71D3-41A7-9938-44E3E53894CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B226E70B-53F4-4117-8D09-8557D3C2833B}
+	EndGlobalSection
+EndGlobal
